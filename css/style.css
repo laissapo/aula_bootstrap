@@ -1,0 +1,30 @@
+body{
+    font: 20px Verdana
+}
+
+.navbar{
+    background-color: lightseagreen
+}
+
+.calendula{
+   background-color: lightskyblue;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.medicinal{
+    background-color: #beb20d
+}
+
+.cultivo{
+    background-color: goldenrod
+}
+
+.casalx{
+    background-color: green;
+    color: hotpink;
+}
